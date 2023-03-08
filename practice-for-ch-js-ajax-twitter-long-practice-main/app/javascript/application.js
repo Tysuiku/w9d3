@@ -35,4 +35,4 @@ document.querySelectorAll(followToggleSelector).forEach((el) => {
 
 // document.querySelectorAll(followersSelector).forEach((el) => {
 //   new Followers(el);
-// });
+// }); 
